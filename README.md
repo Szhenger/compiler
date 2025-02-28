@@ -1,3 +1,3 @@
-# Compiler
+# Compiler from Scratch
 
 TODO
